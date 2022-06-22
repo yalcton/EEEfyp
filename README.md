@@ -16,22 +16,18 @@ This project was quite interesting to work on, and I learnt a lot about how seis
 
 
 ## Running on a custom scenario
-- Should you wish to run your own scenario, it is recommended you follow the instructions in the corresponding final report for this project (see "Running problem section"),
-- 
+- Should you wish to run your own scenario, it is recommended you follow the instructions in the corresponding final report for this project (see "Running problem section")
+
 
 
 
 
 ## Instructions on how to run.
 - It is simple enough to run the custom scenarios, simply run the MATLAB editor, they should work immediately. 
-- In the event of the files not running, there are a few ways to remedy...
+
 
 
 ## Repository structure
 The code is organised as such:
-- 
-- A hill climb implementation.
-- A grid search implementation.
-
-
-Also, have the seperate optimisation algorithms to compare run times, and choose the best one.
+- Custom scenarios - the file in there can be changed to what the user desires according to the user guide.
+- Set scenarios - just run them as they are already parameterised.
